@@ -1,0 +1,9 @@
+.registration-form-container {
+    margin: auto;
+    min-width: 25%;
+    margin-top: 50px;
+}
+
+.signup-form-button {
+    width: 100%;
+}
